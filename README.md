@@ -1,2 +1,3 @@
 # iCrawler_Poem
-爬取“古诗文网”（http://www.gushiwen.org/gushi/xiaoba.aspx）小学生必背古诗80首，并保存到txt文件中。
+爬取“古诗文网”诗词，并保存到txt文件中。
+主站地址：http://www.gushiwen.org/
